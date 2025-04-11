@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Rob Faludi"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Exploring how wabi-sabi can improve DIY electronics"
+  avatar : "/assets/images/rob-photo.jpg"
+  bio    : "I'm exploring how wabi-sabi can improve DIY electronics"
   links:
     - label: "Author's Website"
       icon: "fas fa-fw fa-link"
