@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Rob Faludi"
   avatar : "/assets/images/rob-photo.jpg"
-  bio    : "DIY electronic devices inspired by Japanese [wabi-sabi](/about)."
+  bio    : "DIY electronic devices inspired by Japanese [wabi-sabi](about)."
   links:
     - label: "Author's Website"
       icon: "fas fa-fw fa-link"
