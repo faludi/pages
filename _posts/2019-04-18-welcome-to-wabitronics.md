@@ -5,6 +5,8 @@ categories:
   - blog
 tags:
   - overview
+header:
+  teaser: /assets/images/bonsai-radio.jpg
 ---
 
 Here is a first post placeholder that contains `code snippets`, quotes, links, an image and a movie.
