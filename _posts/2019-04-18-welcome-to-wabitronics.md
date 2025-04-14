@@ -21,8 +21,8 @@ print(x, "is the lonliest number that you'll ever do")
 
 My [website](https://www.faludi.com) is linked here.
 
-This is an image:
-![some alt text describing the image]( {{site.baseurl}}/assets/images/rob-photo.jpg){: width="25"} 
+This is an image resized to height 100:
+![some alt text describing the image]( {{site.baseurl}}/assets/images/rob-photo.jpg){: width="100" aligh: bottom} 
 
 This is a quote:
 > Well, you're dammed if you do and you're dammed if you don't.
