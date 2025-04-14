@@ -19,7 +19,7 @@ print(x, "is the lonliest number that you'll ever do")
 #=> prints to console.
 ```
 
-My [website][https://www.faludi.com] is linked here.
+My [website](https://www.faludi.com) is linked here.
 
 This is an image:
 ![some alt text describing the image](/assets/images/rob-photo.jpg)
