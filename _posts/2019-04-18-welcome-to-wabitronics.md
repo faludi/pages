@@ -20,7 +20,7 @@ print(x, "is the lonliest number that you'll ever do")
 My [website][https://www.faludi.com] is linked here.
 
 This is an image:
-![some alt text describing the image](/pages/assets/images/rob-photo.jpg)
+![some alt text describing the image](/assets/images/rob-photo.jpg)
 
 This is a quote:
 > Well, you're dammed if you do and you're dammed if you don't.

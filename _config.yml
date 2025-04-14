@@ -24,6 +24,7 @@ instagram_username: wabitronics
 minimal_mistakes_skin: dirt
 search: true
 url: https://faludi.github.io/
+baseurl: "/pages"
 
 # Build settings
 markdown: kramdown
