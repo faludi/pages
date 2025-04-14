@@ -1,29 +1,31 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Welcome to Wabitronics!"
+date: 2025-04-14T09:21:57-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - overview
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Here is a first post placeholder that contains `code snippets`, quotes, links, an image and a movie.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This code block is python:
 
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+```python
+x = 1 + 1
+print(x, "is the lonliest number that you'll ever do")
+#=> prints to console.
 ```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+My [website][https://www.faludi.com] is linked here.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+This is an image:
+![some alt text describing the image](rob-photo.jpg)
+
+This is a quote:
+> Well, you're dammed if you do and you're dammed if you don't.
+  
+> <cite><a href="https://simpsons.fandom.com/wiki/Bart_Simpson/Quotes">Bart Simpson</a></cite>
+
+This is a movie:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-nrpYVTEFB0?si=GUr0qkVdDtenBsVF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
