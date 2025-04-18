@@ -2,12 +2,13 @@
 title: "Welcome to Wabitronics!"
 date: 2025-04-14T09:21:57-04:00
 categories:
-  - blog
+  - others
 tags:
   - overview
 header:
   teaser: /assets/images/bonsai-radio.jpg
 ---
+Experiments in wabi-sabi electronics, to nourish the soul
 
 Here is a first post placeholder that contains `code snippets`, quotes, links, an image and a movie.
 
