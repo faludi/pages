@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Wabitronics!"
+title: "My Journey (sample)"
 date: 2025-04-14T09:21:57-04:00
 categories:
   - journey
