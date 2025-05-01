@@ -67,13 +67,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Wabitronics"
+  name   : "Wabi-Sabi Electronics"
+  email  : 
   avatar : "/assets/images/bonsai-radio.jpg"
-  bio    : "DIY electronic devices inspired by Japanese [wabi-sabi](/pages/about)."
+  bio    : "A collection of electronics projects, ideas and inspirations that embrace the beauty of imperfection and the art of simplicity."
   links:
-    - label: "Author's Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.faludi.com"
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/robfaludi.bsky.social"
@@ -83,6 +81,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/faludi"
+    - label: "Faludi.com"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.faludi.com"
 
 footer:
   links:
