@@ -22,12 +22,12 @@ Here’s a brief overview I put together for myself. I decided to omit the big c
 | Name | URL | Free Devices |  Free Uploads/mo |  Free Storage | Basic Plan Cost/mo | Basic Plan Devices |  Basic Plan Uploads/mo | Basic Plan Storage | Basic Plan Name | Notes |
 |-------|--------|---------|-------|--------|---------|-------|--------|---------|-------|--------|
 | name | url | free devices | free uploads | free storage | basic plan | basic devices | basic uploads | basic storage | basic name | notes |
-| ThingSpeak | [https://thingspeak.mathworks.com](https://thingspeak.mathworks.com/) | 4 channels | 250,000 |  unlimited | $8 | 10 channels | 2,750,000 | unlimited | Home | Free plan has 15-second upload limit |
-| Adafruit IO | [https://io.adafruit.com/](https://io.adafruit.com/) | 2 |  1,314,000   | 30 days | $10 | unlimited |  2,628,000 | 60 days | Adafruit IO+ | More uploads and storage available |
-| ThingsBoard | [https://thingsboard.io](https://thingsboard.io/) | \- |  \- |  \- | $10 | 30 | 10,000,000  | 60 days | Maker | |
-| Blynk | [https://blynk.io](https://blynk.io/) | 10 |  3,000 | 1 week | $99 | 50 |  unlimited | 6 months | Pro |  |                                  |
-| Datacake | [https://datacake.co](https://datacake.co/) | 5 | 15,000 | 1 week | $150 | 50 | | 30 days | Light | Or pay as you go $2 euros/device |
-| TagoIO | [https://tago.io](https://tago.io/) | 5 |  1,000,000   | 30 days      | $49 | 100 | 1,000,000 | 9 years | Starter | |
+| [ThingSpeak](https://thingspeak.mathworks.com/) | XXXX | 4 channels | 250,000 |  unlimited | $8 | 10 channels | 2,750,000 | unlimited | Home | Free plan has 15-second upload limit |
+| [Adafruit IO](https://io.adafruit.com/) | XXXX | 2 | 1,314,000 | 30 days | $10 | unlimited | 2,628,000 | 60 days | Adafruit IO+ | More uploads and storage available |
+| [ThingsBoard](https://thingsboard.io/) | XXXX | \- |  \- |  \- | $10 | 30 | 10,000,000  | 60 days | Maker | |
+| [Blynk](https://blynk.io/) | XXXX | 10 |  3,000 | 1 week | $99 | 50 |  unlimited | 6 months | Pro |  |                                  |
+| [Datacake](https://datacake.co/) | XXXX | 5 | 15,000 | 1 week | $150 | 50 | | 30 days | Light | Or pay as you go $2 euros/device |
+| [TagoIO](https://tago.io/) | XXXX | 5 | 1,000,000 | 30 days | $49 | 100 | 1,000,000 | 9 years | Starter | |
 *Packages and prices change all the time, so be sure to confirm with the provider!*
 
 For my projects, I’m leaning toward Adafruit IO because it’s a nice mix of free and low-cost paid options, in a very maker-friendly setup. But I’m also impressed with each of the others for different reasons. Datacake and TagoIO provide wonderful dashboards. ThingsBoard’s paid-tier account offers the best value on uploads while Blynk doesn’t appear to limit uploads at all, providing a great value though at a much higher price. Pick the combination that works best for you!
