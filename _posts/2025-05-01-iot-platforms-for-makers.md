@@ -26,8 +26,8 @@ Here’s a brief overview I put together for myself. I decided to omit the big c
 | [ThingsBoard](https://thingsboard.io/) | \- |  \- |  \- | $10 | 30 | 10,000,000  | 60 days | Maker | |
 | [Blynk](https://blynk.io/) | 10 |  3,000 | 1 week | $99 | 50 |  unlimited | 6 months | Pro | |
 | [Datacake](https://datacake.co/) | 5 | 15,000 | 1 week | $150 | 50 | | 30 days | Light | Or pay as you go $2 euros/device |
-
 | [TagoIO](https://tago.io/) | 5 | 1,000,000 | 30 days | $49 | 100 | 1,000,000 | 9 years | Starter | |
+
 *Packages and prices change all the time, so be sure to confirm with the provider!*
 
 For my projects, I’m leaning toward Adafruit IO because it’s a nice mix of free and low-cost paid options, in a very maker-friendly setup. But I’m also impressed with each of the others for different reasons. Datacake and TagoIO provide wonderful dashboards. ThingsBoard’s paid-tier account offers the best value on uploads while Blynk doesn’t appear to limit uploads at all, providing a great value though at a much higher price. Pick the combination that works best for you!
