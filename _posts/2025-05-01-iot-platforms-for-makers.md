@@ -1,11 +1,7 @@
 ---
 title: 'IoT Platforms for Makers'
 date: '2025-05-01T15:48:35-04:00'
-author: 'Rob Faludi'
 layout: post
-guid: 'https://www.faludi.com/?p=5175'
-permalink: /2025/05/01/iot-platforms-for-makers/
-image: /wp-content/uploads/2025/05/iot-cloud-diagram.png
 categories:
   - tools
 tags:
