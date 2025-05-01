@@ -19,14 +19,14 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of electronics projects, ideas and inspirations 
   that embrace the beauty of imperfection and the art of simplicity.
-baseurl: /pages
+baseurl:
 twitter_username: faludi
 github_username: faludi
 instagram_username: wabitronics
 minimal_mistakes_skin: dirt
 search: true
 search_provider: lunr
-url: https://faludi.github.io/
+url: https://wabitronics.faludi.com/
 logo: "assets/images/cherry-blossom-small.jpeg"
 
 
