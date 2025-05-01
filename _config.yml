@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Wabi-Sabi Electronics
-subtitle: "subtitle"
+subtitle: "DIY electronic devices inspired by Japanese wabi-sabi."
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   DIY electronic devices inspired by Japanese wabi-sabi.
@@ -26,7 +26,7 @@ minimal_mistakes_skin: dirt
 search: true
 search_provider: lunr
 url: https://faludi.github.io/
-logo: "assets/images/cherry-blossom-half.png.jpeg"
+logo: "assets/images/cherry-blossom-small.jpeg"
 
 
 # Build settings
