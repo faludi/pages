@@ -18,13 +18,16 @@ title: Wabi-Sabi Electronics
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   DIY electronic devices inspired by Japanese wabi-sabi.
+baseurl: /pages
 twitter_username: faludi
 github_username: faludi
 instagram_username: wabitronics
 minimal_mistakes_skin: dirt
 search: true
+search_provider: lunr
 url: https://faludi.github.io/
-baseurl: /pages
+logo: "/assets/images/bio-photo.png"
+
 
 # Build settings
 markdown: kramdown
