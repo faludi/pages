@@ -70,11 +70,11 @@ author:
   name   : "Wabi-Sabi Electronics"
   email  : 
   avatar : "/assets/images/bonsai-radio.jpg"
-  bio    : "Electronics projects, ideas and inspirations that embrace the beauty of imperfection and the art of simplicity."
+  bio    : "Technology projects, ideas and inspirations that embrace the beauty of imperfection and the art of simplicity."
   links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/robfaludi.bsky.social"
+      url: "https://robfaludi.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/faludi"
@@ -89,7 +89,7 @@ footer:
   links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/robfaludi.bsky.social"
+      url: "https://robfaludi.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/faludi"
