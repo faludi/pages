@@ -25,7 +25,6 @@ Here’s a brief overview I put together for myself. I decided to omit the big c
 | ThingSpeak | [https://thingspeak.mathworks.com](https://thingspeak.mathworks.com/) | 4 channels | 250,000 |  unlimited | $8 | 10 channels | 2,750,000 | unlimited | Home | Free plan has 15-second upload limit |
 | Adafruit IO | [https://io.adafruit.com/](https://io.adafruit.com/) | 2 |  1,314,000   | 30 days | $10 | unlimited |  2,628,000 | 60 days | Adafruit IO+ | More uploads and storage available |
 | ThingsBoard | [https://thingsboard.io](https://thingsboard.io/) | \- |  \- |  \- | $10 | 30 | 10,000,000  | 60 days | Maker | |
-
 | Blynk | [https://blynk.io](https://blynk.io/) | 10 |  3,000 | 1 week | $99 | 50 |  unlimited | 6 months | Pro |  |                                  |
 | Datacake | [https://datacake.co](https://datacake.co/) | 5 | 15,000 | 1 week | $150 | 50 | | 30 days | Light | Or pay as you go $2 euros/device |
 | TagoIO | [https://tago.io](https://tago.io/) | 5 |  1,000,000   | 30 days      | $49 | 100 | 1,000,000 | 9 years | Starter | |
