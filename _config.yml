@@ -26,7 +26,7 @@ minimal_mistakes_skin: dirt
 search: true
 search_provider: lunr
 url: https://faludi.github.io/
-logo: "/assets/images/bio-photo.png"
+logo: "/assets/images/bio-photo.jpg"
 
 
 # Build settings
@@ -85,15 +85,24 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/faludi"
+      - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/robfaludi.bsky.social"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/faludi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/faludi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/wabitronics"
+
+footer:
+  links:
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/weill.org"
 
 defaults:
   # _posts
