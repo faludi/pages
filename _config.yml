@@ -95,12 +95,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/wabitronics"
 
-footer:
-  links:
-    - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/weill.org"
-
 defaults:
   # _posts
   - scope:
