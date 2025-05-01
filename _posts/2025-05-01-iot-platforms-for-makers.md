@@ -20,6 +20,9 @@ Here’s a brief overview I put together for myself. I decided to omit the big c
 | honeycrisp | granny smith | fuji |
 
 | Name | URL | Free Devices |  Free Uploads/mo |  Free Storage | Basic Plan Cost/mo | Basic Plan Devices |  Basic Plan Uploads/mo | Basic Plan Storage | Basic Plan Name | Notes |
+|-------|--------|---------|-------|--------|---------|-------|--------|---------|-------|--------|---------|
+| name | url | free devices | free uploads | free storage | basic plan | basic devices | basic uploads | basic storage | basic name | notes |
+
 |-----------|---------------------------------------------------------------------|------------|--------------------------|-------------|------------------|------------------| ----------------------------------|------------------|---------------|------------------------------------|
 | ThingSpeak | [https://thingspeak.mathworks.com](https://thingspeak.mathworks.com/) | 4 channels   |                   250,000  |  unlimited    | $8                 | 10 channels        |                          2,750,000 | unlimited          | Home            | Free plan has 15-second upload limit |
 | Adafruit IO | [https://io.adafruit.com/](https://io.adafruit.com/)                  | 2            |                1,314,000   |  30 days      | $10                | unlimited          |                          2,628,000 | 60 days            | Adafruit IO+    | More uploads and storage available   |
