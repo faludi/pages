@@ -13,6 +13,12 @@ Every IoT platform provider arranges pricing differently, which makes it tough t
 
 Here’s a brief overview I put together for myself. I decided to omit the big cloud systems because they aren’t really designed for individual users and can be maddeningly complex. AWS, Azure, Google, IBM, Oracle, Siemens, Salesforce, Bosch and similar are amazing for industrial IoT systems. They have power and scalability, but I don’t feel they are appropriate for first-timers, so that’s why they are not considered in this review.
 
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
+
 | Name        | URL                                                                   | Free Devices |  Free Uploads/mo           |  Free Storage | Basic Plan Cost/mo | Basic Plan Devices |  Basic Plan Uploads/mo             | Basic Plan Storage | Basic Plan Name | Notes                                |
 | ----------- | --------------------------------------------------------------------- | ------------ | -------------------------- | ------------- | ------------------ | ------------------ | ---------------------------------- | ------------------ | --------------- | ------------------------------------ |
 | ThingSpeak  | [https://thingspeak.mathworks.com](https://thingspeak.mathworks.com/) | 4 channels   |                   250,000  |  unlimited    | $8                 | 10 channels        |                          2,750,000 | unlimited          | Home            | Free plan has 15-second upload limit |
