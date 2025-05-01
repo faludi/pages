@@ -1,5 +1,4 @@
 ---
-id: 5175
 title: 'IoT Platforms for Makers'
 date: '2025-05-01T15:48:35-04:00'
 author: 'Rob Faludi'
@@ -8,11 +7,12 @@ guid: 'https://www.faludi.com/?p=5175'
 permalink: /2025/05/01/iot-platforms-for-makers/
 image: /wp-content/uploads/2025/05/iot-cloud-diagram.png
 categories:
-    - General
-    - 'Internet of Things'
+  - tools
+tags:
+  - iot
 ---
 
-<figure class="wp-block-image size-full is-resized is-style-rounded wp-duotone-grayscale">[![](https://www.faludi.com/wp-content/uploads/2025/05/iot-cloud-diagram.png)](https://www.faludi.com/wp-content/uploads/2025/05/iot-cloud-diagram.png)</figure>I’ve been looking at several Internet of Things (IoT) cloud platforms to support a new series of connected projects. The ideal platform would have a no-subscription (free) option as well as an affordable paid tier that offers expanded resources when a project requires more. My intended audience of students, makers, scientists and artists will want to get started quickly, with low complexity and an easy path to early success.
+I’ve been looking at several Internet of Things (IoT) cloud platforms to support a new series of connected projects. The ideal platform would have a no-subscription (free) option as well as an affordable paid tier that offers expanded resources when a project requires more. My intended audience of students, makers, scientists and artists will want to get started quickly, with low complexity and an easy path to early success.
 
 Every IoT platform provider arranges pricing differently, which makes it tough to compare them all. Some limit the number of devices, others the number of uploads or storage time. Many providers don’t offer a free tier beyond 30 days, which I’ve found isn’t nearly enough time for first-time users. Some won’t even reveal the details of their pricing structure until you sign up.
 
