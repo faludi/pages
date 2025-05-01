@@ -1,6 +1,6 @@
 ---
-title: 'IoT Platforms for Makers'
-date: '2025-05-01T15:48:35-04:00'
+title: "IoT Platforms for Makers"
+date: 2025-05-01T15:48:35-04:00
 layout: post
 categories:
   - tools
