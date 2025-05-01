@@ -85,7 +85,7 @@ author:
 
 footer:
   links:
-      - label: "Bluesky"
+    - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/robfaludi.bsky.social"
     # - label: "Twitter"
