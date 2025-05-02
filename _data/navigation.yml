@@ -19,7 +19,6 @@ sidebar-sample:
         url: /
       - title: "Child Page A4.1"
         url: /
-
     links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
