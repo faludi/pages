@@ -7,8 +7,6 @@ sidebar:
     image: "/assets/images/bonsai-radio.jpg"
     image_alt: "bonsai growing out of clock radio"
     text: "Technology projects, ideas and inspirations that embrace the beauty of imperfection and the art of simplicity."
-  - title: "Another Title"
-    text: "More text here."
     nav: sidebar-sample
 ---
 
