@@ -9,7 +9,6 @@ main:
     url: /about/
 
 sidebar-sample:
-
   - title: "Parent Page A"
     children:
       - title: "Child Page A1"
@@ -21,7 +20,7 @@ sidebar-sample:
       - title: "Child Page A4"
         url: /
 
-  links:
+    links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://robfaludi.bsky.social"
@@ -34,7 +33,7 @@ sidebar-sample:
     - label: "Faludi.com"
       icon: "fas fa-fw fa-link"
       url: "https://www.faludi.com"
-      
+
   # - title: "Parent Page B"
   #   children:
   #     - title: "Child Page B1"
