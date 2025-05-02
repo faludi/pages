@@ -4,25 +4,12 @@ title: "About"
 author_profile: false
 sidebar:
   - title: "Wabi-Sabi Electronics"
-    image: "/assets/images/assets/images/bonsai-radio.jpg"
+    image: "/assets/images/bonsai-radio.jpg"
     image_alt: "bonsai growing out of clock radio"
     text: "Technology projects, ideas and inspirations that embrace the beauty of imperfection and the art of simplicity."
   - title: "Another Title"
     text: "More text here."
     nav: sidebar-sample
-    links:
-    - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky"
-      url: "https://robfaludi.bsky.social"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/faludi"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/faludi"
-    - label: "Faludi.com"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.faludi.com"
 ---
 
 Wabi-sabi is a Japanese aesthetic and worldview that embraces the beauty of imperfection, impermanence, and simplicity. It finds value in the natural, the humble, and the flawed.
