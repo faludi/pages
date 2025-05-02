@@ -17,9 +17,9 @@ sidebar-sample:
         url: /
       - title: "Child Page A3"
         url: /
-      - title: "Child Page A4.1"
+      - title: "Child Page A4.2"
         url: /
-    links:
+  links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://robfaludi.bsky.social"
