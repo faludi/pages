@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: false
 sidebar:
   - title: "Title"
     image: "/assets/images/bio-photo.jpg"
