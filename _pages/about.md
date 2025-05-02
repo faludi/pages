@@ -1,6 +1,14 @@
 ---
 permalink: /about/
 title: "About"
+sidebar:
+  - title: "Title"
+    image: "/assets/images/bio-photo.jpg"
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+    nav: sidebar-sample
 ---
 
 Wabi-sabi is a Japanese aesthetic and worldview that embraces the beauty of imperfection, impermanence, and simplicity. It finds value in the natural, the humble, and the flawed.
