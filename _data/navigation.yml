@@ -9,7 +9,7 @@ main:
     url: /about/
 
 sidebar-sample:
-    links:
+  links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://robfaludi.bsky.social"
