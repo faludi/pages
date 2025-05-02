@@ -19,19 +19,19 @@ sidebar-sample:
         url: /
       - title: "Child Page A4.2"
         url: /
-  links:
-    - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky"
-      url: "https://robfaludi.bsky.social"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/faludi"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/faludi"
-    - label: "Faludi.com"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.faludi.com"
+  # links:
+  #   - label: "Bluesky"
+  #     icon: "fab fa-fw fa-bluesky"
+  #     url: "https://robfaludi.bsky.social"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/faludi"
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-instagram"
+  #     url: "https://instagram.com/faludi"
+  #   - label: "Faludi.com"
+  #     icon: "fas fa-fw fa-link"
+  #     url: "https://www.faludi.com"
 
   # - title: "Parent Page B"
   #   children:
