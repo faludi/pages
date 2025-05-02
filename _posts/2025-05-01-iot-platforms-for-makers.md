@@ -6,6 +6,8 @@ categories:
 tags:
   - iot
 classes: wide
+header:
+  teaser: /assets/images/iot-cloud-diagram.png
 ---
 
 I’ve been looking at several Internet of Things (IoT) cloud platforms to support a new series of connected projects. The ideal platform would have a no-subscription (free) option as well as an affordable paid tier that offers expanded resources when a project requires more. My intended audience of students, makers, scientists and artists will want to get started quickly, with low complexity and an easy path to early success.
