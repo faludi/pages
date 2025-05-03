@@ -2,12 +2,6 @@
 permalink: /about/
 title: "About"
 author_profile: false
-sidebar:
-  - title: "Wabi-Sabi Electronics"
-    image: "/assets/images/bonsai-radio.jpg"
-    image_alt: "bonsai growing out of clock radio"
-    text: "Technology projects, ideas and inspirations that embrace the beauty of imperfection and the art of simplicity."
-    nav: sidebar-sample
 ---
 
 Wabi-sabi is a Japanese aesthetic and worldview that embraces the beauty of imperfection, impermanence, and simplicity. It finds value in the natural, the humble, and the flawed.
