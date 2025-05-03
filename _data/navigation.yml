@@ -9,29 +9,29 @@ main:
     url: /about/
 
 sidebar-sample:
-  links:
-    - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky"
-      url: "https://robfaludi.bsky.social"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/faludi"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/faludi"
-    - label: "Faludi.com"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.faludi.com"
-  - title: "Parent Page A"
+  # links:
+  #   - label: "Bluesky"
+  #     icon: "fab fa-fw fa-bluesky"
+  #     url: "https://robfaludi.bsky.social"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/faludi"
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-instagram"
+  #     url: "https://instagram.com/faludi"
+  #   - label: "Faludi.com"
+  #     icon: "fas fa-fw fa-link"
+  #     url: "https://www.faludi.com"
+  - title: "Links"
     children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4.2"
-        url: /
+      - title: "Bluesky"
+        url: https://robfaludi.bsky.social
+      - title: "GitHub"
+        url: https://github.com/faludi
+      - title: "Instagram"
+        url: https://instagram.com/faludi
+      - title: "Faludi.com"
+        url: https://www.faludi.com
 
 
   # - title: "Parent Page B"
