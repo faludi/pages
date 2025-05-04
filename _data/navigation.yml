@@ -7,15 +7,3 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-
-sidebar-sample:
-  - title: "Find us"
-    children:
-      - title: "Bluesky"
-        url: https://robfaludi.bsky.social
-      - title: "GitHub"
-        url: https://github.com/faludi
-      - title: "Instagram"
-        url: https://instagram.com/faludi
-      - title: "Faludi.com"
-        url: https://www.faludi.com
