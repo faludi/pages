@@ -69,7 +69,7 @@ plugins:
 author:
   name   : "Wabi-Sabi Electronics"
   email  : 
-  avatar : "/assets/images/bonsai-radio-rounded.jpg"
+  avatar : "/assets/images/bonsai-radio-rounded.png"
   bio    : "Technology projects, ideas and inspirations that embrace the beauty of imperfection and the art of simplicity."
   links:
     - label: "Bluesky"
