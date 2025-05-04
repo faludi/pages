@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-author_profile: false
+author_profile: true
 ---
 
 Wabi-sabi is a Japanese aesthetic and worldview that embraces the beauty of imperfection, impermanence, and simplicity. It finds value in the natural, the humble, and the flawed.

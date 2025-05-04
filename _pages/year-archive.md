@@ -2,6 +2,6 @@
 title: "Posts by Year"
 permalink: /posts/
 layout: posts
-author_profile: false
+author_profile: true
 search: false
 ---
