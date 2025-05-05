@@ -41,6 +41,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 lunr:
   search_within_pages: true
+  search_full_content: true
 
 include:
   - _pages
