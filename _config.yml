@@ -68,7 +68,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Tokonoma"
+  name   : "Wabi-Sabi Electronics"
   email  : 
   avatar : "/assets/images/circuit-board-blossoms12.jpg"
   bio    : "Technology projects, ideas and inspirations that embrace the beauty of imperfection and the art of simplicity."
