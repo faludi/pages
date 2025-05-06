@@ -70,7 +70,7 @@ plugins:
 author:
   name   : "Wabi-Sabi Electronics"
   email  : 
-  avatar : "/assets/images/circuit-board-blossoms8-rounded.jpg"
+  avatar : "/assets/images/circuit-board-blossoms8-rounded.png"
   bio    : "Technology projects, ideas and inspirations that embrace the beauty of imperfection and the art of simplicity."
   links:
     - label: "Bluesky"
