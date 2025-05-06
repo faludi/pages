@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 author_profile: true
 ---
+![image-right](/assets/images/circuit-board-blossoms8.jpg){: .align-right}
 
 The dehumanizing mechanization of modern life has led to stress, busywork, invasive thoughts, anxiety, and depression. Each new electronic invention seems to take us further from the natural world, and into a more rigidly ordered state. We are confronted by millisecond timings and deterministic procedures, leaving  us scrambling to attain a precision and perfection that’s always slightly beyond our grasp. The devices we create are cool and sleek, with right angles and crisp corners. This makes them easier to manufacture and transport, but unnatural for the end user to hold and operate. Tiny buttons, confusing indicators and hidden operations frustrate the user, sometimes making them feel inadequate, overwhelmed and unworthy.
 
