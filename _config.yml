@@ -29,6 +29,7 @@ search_provider: lunr
 search_full_content: true
 url: https://wabitronics.faludi.com/
 logo: "assets/images/cherry-blossom-small.jpeg"
+teaser: /assets/images/cherry-blossom-small.jpeg
 
 
 # Build settings
