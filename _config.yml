@@ -68,9 +68,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Wabi-Sabi Electronics"
+  name   : "Tokonoma"
   email  : 
-  avatar : "/assets/images/bonsai-radio-rounded.png"
+  avatar : "/assets/images/circuit-board-blossoms12.jpg"
   bio    : "Technology projects, ideas and inspirations that embrace the beauty of imperfection and the art of simplicity."
   links:
     - label: "Bluesky"
