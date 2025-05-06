@@ -2,6 +2,8 @@
 permalink: /about/
 title: "About"
 author_profile: true
+header:
+  teaser: /assets/images/circuit-board-blossoms8.jpg
 ---
 ![image-right](/assets/images/circuit-board-blossoms8.jpg){: .align-right width="45%"}
 
