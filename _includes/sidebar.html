@@ -5,7 +5,7 @@
     {% for s in page.sidebar %}
       {% if s.image %}
         <img src="{{ s.image | relative_url }}"
-             alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}
+             alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}""
              width="{{ s.image_width | default: 100 }}"
              height="{{ s.image_height | default: 100 }}">
       {% endif %}
