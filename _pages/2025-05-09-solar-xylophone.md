@@ -1,0 +1,22 @@
+---
+title: "Solar Xylophone"
+# permalink: /solar/
+date: 2025-05-09T15:00:00-04:00
+categories:
+  - examples
+tags:
+  - music
+# classes: wide
+header:
+  teaser: /assets/images/solar-xylophone-grass.png
+---
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/57502038?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Solar Xylophone"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+![Solar Xylophone Grass]({{ site.url }}{{ site.baseurl }}/assets/images/solar-xylophone-grass.jpg)
+
+![Solar Xylophone]({{ site.url }}{{ site.baseurl }}/assets/images/solar-xylophone.jpg)
+
+Kit: https://www.solarbotics.com/product/make12xphone/
+
+Article: https://makezine.com/projects/solar-xylophone/
