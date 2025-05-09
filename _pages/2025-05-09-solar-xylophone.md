@@ -1,6 +1,6 @@
 ---
 title: "Solar Xylophone"
-# permalink: /solar/
+permalink: /solar/
 date: 2025-05-09T15:00:00-04:00
 categories:
   - examples
