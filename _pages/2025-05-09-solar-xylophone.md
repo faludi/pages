@@ -13,6 +13,10 @@ header:
 
 <br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jv4eSf31RVw?si=cqiMlnHQzXil5PGj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
 ![Solar Xylophone Grass]({{ site.url }}{{ site.baseurl }}/assets/images/solar-xylophone-grass.jpg)
 
 ![Solar Xylophone]({{ site.url }}{{ site.baseurl }}/assets/images/solar-xylophone.jpg)
