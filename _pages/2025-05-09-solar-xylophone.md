@@ -12,11 +12,11 @@ header:
 
 {% include video id="57502038" provider="vimeo" %}
 
-<!-- <iframe src="https://player.vimeo.com/video/57502038?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allowfullscreen></iframe>   -->
-
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jv4eSf31RVw?si=cqiMlnHQzXil5PGj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include video id="jv4eSf31RVw" provider="youtube" %}
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/jv4eSf31RVw?si=cqiMlnHQzXil5PGj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 <br>
 
