@@ -9,7 +9,7 @@ tags:
 header:
   teaser: /assets/images/solar-xylophone-grass.png
 ---
-<iframe width="100%" src="https://player.vimeo.com/video/57502038?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allowfullscreen></iframe>  
+<iframe width="50%" src="https://player.vimeo.com/video/57502038?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allowfullscreen></iframe>  
 
 <br>
 
