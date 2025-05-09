@@ -19,6 +19,6 @@ header:
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/jv4eSf31RVw?si=cqiMlnHQzXil5PGj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
-Kit: https://www.solarbotics.com/product/make12xphone/
+[Solar Xylophone Kit](https://www.solarbotics.com/product/make12xphone/)
 
-Article: https://makezine.com/projects/solar-xylophone/
+[Solar Xylophone Build Instructions](https://makezine.com/projects/solar-xylophone/)
