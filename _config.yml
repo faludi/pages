@@ -76,7 +76,7 @@ author:
   links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
-      url: "https://wabitronics.bsky.social"
+      url: "https://bsky.app/profile/wabitronics.faludi.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/faludi"
@@ -91,7 +91,7 @@ footer:
   links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
-      url: "https://wabitronics.bsky.social"
+      url: "https://bsky.app/profile/wabitronics.faludi.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/faludi"
