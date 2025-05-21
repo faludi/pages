@@ -3,7 +3,7 @@ title: "Noguchi Museum Visit"
 permalink: /noguchi/
 date: 2025-05-21T12:00:00-04:00
 categories:
-  - research
+  - inspirations
 tags:
   - sculpture
 header:
