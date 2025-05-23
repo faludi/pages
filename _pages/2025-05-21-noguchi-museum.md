@@ -34,4 +34,4 @@ In the photos below, look for organic forms, contextual design, asymmetry, shado
 <!-- {% include gallery caption="Pictures from the [Noguchi Museum](https://www.noguchi.org)" %} -->
 
 {% include image-gallery.html folder="/assets/images/noguchi" %}
-Pictures from the [Noguchi Museum](https://www.noguchi.org)
+Pictures from the [Noguchi Museum](https://www.noguchi.org){: style="text-align: center;"}
