@@ -7,6 +7,7 @@ tags:
   - sculpture
 header:
   teaser: /assets/images/noguchi/Core-1978.jpeg
+excerpt: "These photos are from a recent visit to the Noguchi Museum in Queens, New York."
 ---
 ![Core](/assets/images/noguchi/Core-1978.jpeg)
 
