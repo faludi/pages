@@ -27,7 +27,7 @@ minimal_mistakes_skin: dirt
 search: true
 search_provider: lunr
 search_full_content: true
-url: https://wabitronics.faludi.com/
+url: https://wabitronics.com/
 logo: "assets/images/cherry-blossom-small.jpeg"
 teaser: /assets/images/cherry-blossom-small.jpeg
 
@@ -76,7 +76,7 @@ author:
   links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/wabitronics.faludi.com"
+      url: "https://bsky.app/profile/wabitronics.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/faludi"
@@ -91,7 +91,7 @@ footer:
   links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/wabitronics.faludi.com"
+      url: "https://bsky.app/profile/wabitronics.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/faludi"
