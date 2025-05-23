@@ -15,5 +15,5 @@ These photos are from a recent visit to the [Noguchi Museum](https://www.noguchi
 In the photos below, look for organic forms, contextual design, asymmetry, shadows and the quiet humility and compassion of an artist who [volunteered to live in an internment camp](https://en.wikipedia.org/wiki/Isamu_Noguchi#:~:text=Following%20the%20attack,World%20at%20War.) during WWII to provide creative skills and design services including crafting parks and playgrounds for his fellow internees. His combinations of rough-hewn wood, varied stone and attention to contentual synergy are wonderful inspiration for a new generation of wabi-sabi practitioners.
 
 {% include image-gallery.html folder="/assets/images/noguchi" %}
-Pictures from the [Noguchi Museum](https://www.noguchi.org)
+<sup>Pictures from the [Noguchi Museum](https://www.noguchi.org), Queens, New York</sup>
 {: style="text-align: center;"}
