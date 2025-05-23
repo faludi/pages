@@ -9,7 +9,7 @@ tags:
 header:
   teaser: /assets/images/noguchi/Core-1978.jpeg
 ---
-![Core](/assets/images/Core-1978.jpeg)
+![Core](/assets/images/noguchi/Core-1978.jpeg)
 
 These photos are from a recent visit to the [Noguchi Museum](https://www.noguchi.org) in Queens, New York. Isamu Noguchi was a Los Angeles-born artist of Japanese descent who was best known for his sculptures and public artworks. His work and philosophy were deeply grounded in wabi-sabi, especially in the relationship of his sculptures and outdoor designs to their natural settings. His attention to light, shadows and space reflect that aesthetic. Asymmetric designs that often include rough, unfinished components are a hallmark of his work. Of note to those interested in Wabi-Sabi Electronics, he also designed the [Zenith Radio Nurse](https://en.wikipedia.org/wiki/Zenith_Radio_Nurse), the world's first electronic baby monitor, now part of [MOMA's permanent collection](https://www.moma.org/collection/works/4341?artist_id=4324&page=1&sov_referrer=artist). Noguchi called it "my only strictly industrial design." The muted color and organic shape brought a simple yet organic feel to the nacent device. 
 
