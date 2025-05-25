@@ -1,6 +1,6 @@
 ---
 title: "Japanese Friendship Garden Visit"
-date: 2025-05-25T12:00:00-04:00
+date: 2025-05-26T12:00:00-04:00
 categories:
   - inspirations
 tags:
