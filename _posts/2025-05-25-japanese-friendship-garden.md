@@ -17,7 +17,7 @@ We recently spent some time in the [Japanse Friendship Garden](https://www.japan
 >
 >The teahouse and surrounding tea garden were completed in November 1996, the 20th anniversary of our Sister City relationship. The project features a stroll garden, tea garden, and a dry garden.
 
-In the photos below, look for nature shaped in collaboration with human hands, rich contextual design, asymmetries, peaceful spaces and even a tea house whose current Master is Dr. Sen Soshitsu, the former tea master of the Urasenke School of Tea in Japan. Dr. Sen is a _15th_ generation descendant of [Sen no Rikyū](https://en.wikipedia.org/wiki/Sen_no_Rikyū) (千利休 1521-1591), who is widely regarded as the first and most important Japanese tea master.
+In the photos below, look for nature shaped in collaboration with human hands, rich contextual design, asymmetries, peaceful spaces and even a tea house whose current Master is Dr. Sen Soshitsu, the former tea master of the Urasenke School of Tea in Japan. He is a _15th_ generation descendant of [Sen no Rikyū](https://en.wikipedia.org/wiki/Sen_no_Rikyū) (千利休 1521-1591), who is widely regarded as the first and most important Japanese tea master.
 
 <!-- Uses https://jekyllcodex.org/without-plugin/image-gallery/ -->
 {% include image-gallery.html folder="/assets/images/japanese-friendship-garden" %}
