@@ -1,15 +1,15 @@
 ---
-title: "Noguchi Museum Visit"
+title: "Japanese Friendship Garden Visit"
 date: 2025-05-25T12:00:00-04:00
 categories:
   - inspirations
 tags:
   - sculpture
 header:
-  teaser: /assets/images/noguchi/Core-1978.jpeg
-excerpt: "These photos are from a recent visit to the Noguchi Museum in Queens, New York."
+  teaser: /assets/images/noguchi/Zig-zag-Bridge–Yatsuhashi.jpeg
+excerpt: "We recently spent some time in the Japanse Friendship Garden in Phoenix, Arizona. It's a quiet green refuge in a busy, hot, beige city that often surpasses 120ºF in the summer. "
 ---
-![Core](/assets/images/noguchi/Core-1978.jpeg)
+![Core](/assets/images/noguchi/Zig-zag-Bridge–Yatsuhashi.jpeg)
 
 We recently spent some time in the [Japanse Friendship Garden](https://www.japanesefriendshipgarden.org) in Phoenix, Arizona. It's a quiet green refuge in a busy, hot, beige city that often surpasses 120ºF in the summer. Here's a description of the garden from their web site:
 
