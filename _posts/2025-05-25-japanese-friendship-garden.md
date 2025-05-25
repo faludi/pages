@@ -6,10 +6,10 @@ categories:
 tags:
   - sculpture
 header:
-  teaser: /assets/images/noguchi/Zig-zag-Bridge–Yatsuhashi.jpeg
+  teaser: /assets/images/japanese-friendship-garden/Zig-zag-Bridge–Yatsuhashi.jpeg
 excerpt: "We recently spent some time in the Japanse Friendship Garden in Phoenix, Arizona. It's a quiet green refuge in a busy, hot, beige city that often surpasses 120ºF in the summer. "
 ---
-![Core](/assets/images/noguchi/Zig-zag-Bridge–Yatsuhashi.jpeg)
+![Core](/assets/images/japanese-friendship-garden/Zig-zag-Bridge–Yatsuhashi.jpeg)
 
 We recently spent some time in the [Japanse Friendship Garden](https://www.japanesefriendshipgarden.org) in Phoenix, Arizona. It's a quiet green refuge in a busy, hot, beige city that often surpasses 120ºF in the summer. Here's a description of the garden from their web site:
 
