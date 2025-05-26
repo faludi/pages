@@ -1,10 +1,11 @@
 ---
 title: "Japanese Friendship Garden Visit"
 date: 2025-05-27T12:00:00-04:00
+permalink: /preview/
 categories:
   - inspirations
 tags:
-  - sculpture 
+  - gardens 
 header:
   teaser: /assets/images/japanese-friendship-garden/Zig-zag-Bridge–Yatsuhashi.jpeg
 excerpt: "We recently spent some time in the Japanse Friendship Garden in Phoenix, Arizona. It's a quiet green refuge in a busy, hot, beige city. "
