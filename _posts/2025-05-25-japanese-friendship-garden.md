@@ -4,7 +4,7 @@ date: 2025-05-26T12:00:00-04:00
 categories:
   - inspirations
 tags:
-  - sculpture
+  - sculpture 
 header:
   teaser: /assets/images/japanese-friendship-garden/Zig-zag-Bridge–Yatsuhashi.jpeg
 excerpt: "We recently spent some time in the Japanse Friendship Garden in Phoenix, Arizona. It's a quiet green refuge in a busy, hot, beige city. "
