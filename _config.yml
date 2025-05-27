@@ -49,14 +49,17 @@ include:
   - _pages
 
 comments:
+# https://giscus.app
   provider: "giscus"
   giscus:
     repo_id              : "R_kgDOOYHG3w" # Shown during giscus setup at https://giscus.app
     category_name        : "Announcements" # Full text name of the category
     category_id          : "DIC_kwDOOYHG384CqpME" # Shown during giscus setup at https://giscus.app
     discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : '1' # '1' for enabled (default), '0' for disabled
+    reactions_enabled    : '0' # '1' for enabled (default), '0' for disabled
+    input_position       : "bottom" # "top" (default), "bottom", "discussions"
     theme                : "light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    lazy                 : '1' # '1' for enabled (default), '0' for disabled
 
 
 # Exclude from processing.
