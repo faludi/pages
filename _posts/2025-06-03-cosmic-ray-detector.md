@@ -1,6 +1,6 @@
 ---
 title: "Cosmic Ray Detector"
-date: 2025-06-03T12:00:00-04:00
+date: 2025-06-03T11:00:00-04:00
 categories:
   - examples
 tags:
