@@ -2,7 +2,7 @@
 permalink: /links/
 title: "Links"
 author_profile: false
-layout: posts
+layout: links
 search: false
 entries_layout: grid
 ---
