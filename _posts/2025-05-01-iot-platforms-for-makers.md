@@ -9,7 +9,7 @@ classes: wide
 header:
   teaser: /assets/images/iot-cloud-diagram.png
 ---
-
+![IoT Cloud]({{ site.url }}{{ site.baseurl }}/assets/images/iot-cloud-diagram.png){: .align-right width="40%"}
 I’ve been looking at several Internet of Things (IoT) cloud platforms to support a new series of connected projects. The ideal platform would have a no-subscription (free) option as well as an affordable paid tier that offers expanded resources when a project requires more. My intended audience of students, makers, scientists and artists will want to get started quickly, with low complexity and an easy path to early success.
 
 Every IoT platform provider arranges pricing differently, which makes it tough to compare them all. Some limit the number of devices, others the number of uploads or storage time. Many providers don’t offer a free tier beyond 30 days, which I’ve found isn’t nearly enough time for first-time users. Some won’t even reveal the details of their pricing structure until you sign up.
@@ -29,4 +29,3 @@ Here’s a brief overview I put together for myself. I decided to omit the big c
 
 For my projects, I’m leaning toward Adafruit IO because it’s a nice mix of free and low-cost paid options, in a very maker-friendly setup. But I’m also impressed with each of the others for different reasons. Datacake and TagoIO provide wonderful dashboards. ThingsBoard’s paid-tier account offers the best value on uploads while Blynk doesn’t appear to limit uploads at all, providing a great value though at a much higher price. Pick the combination that works best for you!
 
-![IoT Cloud]({{ site.url }}{{ site.baseurl }}/assets/images/iot-cloud-diagram.png)
