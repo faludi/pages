@@ -28,3 +28,5 @@ Here’s a brief overview I put together for myself. I decided to omit the big c
 <sup>*Packages and prices change all the time, so be sure to confirm with the provider!*</sup>
 
 For my projects, I’m leaning toward Adafruit IO because it’s a nice mix of free and low-cost paid options, in a very maker-friendly setup. But I’m also impressed with each of the others for different reasons. Datacake and TagoIO provide wonderful dashboards. ThingsBoard’s paid-tier account offers the best value on uploads while Blynk doesn’t appear to limit uploads at all, providing a great value though at a much higher price. Pick the combination that works best for you!
+
+![2x4 Enclosures]({{ site.url }}{{ site.baseurl }}/assets/images/iot-cloud-diagram.png)
