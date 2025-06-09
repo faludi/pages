@@ -1,6 +1,6 @@
 ---
 title: "Project Post Template"
-date: 2025-05-24T12:00:00-04:00
+date: 2030-01-01T12:00:00-04:00
 categories:
   - examples
 tags:
