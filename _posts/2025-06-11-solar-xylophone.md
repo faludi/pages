@@ -28,7 +28,7 @@ When the solar xylophone is placed outside, it begins slowly playing notes in an
 
 # Elements
 
-The Solar Xylophone displays several characteristics of wabi-sabi electronics. It is deeply connected to nature&mdash;taking both its power and musicality from sunlight, as modified by weather and the foliage above it. Its melody changes constantly, flowing of its own accord and vanishing when the sun is blocked or has set. It offers a simple mechanical design and this simplicity is mirrored in its straightforward analog electronics. There’s no fancy enclosure or attempt to hide the mechanism, so its appearance is plain and unadorned. The music it plays encourages the listener’s attention to the moment. It would enhance a peaceful meditation session.   
+The Solar Xylophone displays several characteristics of wabi-sabi electronics. It is deeply connected to nature&mdash;taking both its power and musicality from sunlight, as modified by weather and the foliage above it. Its melody changes constantly, flowing of its own accord and vanishing when the sun is blocked or has set. It offers a simple mechanical design and this simplicity is mirrored in its straightforward analog electronics. There’s no fancy enclosure or attempt to hide the mechanism, so its appearance is plain and unadorned. The music it plays encourages the listener’s attention to the moment. It would enhance a peaceful meditation session.
 
 # Opportunities
 
