@@ -22,7 +22,7 @@ The design and full build instructions are documented in [Make Magazine’s Volu
 
 # Effects
 
-When the solar xylophone is placed outside, it begins slowly playing notes in an unpredictable manner based on how much sun is hitting each of the eight solar panels. The result is a peaceful release of musical notes that’s always different, written by the sun and edited by the dappling of the sunlight through the trees. The listener is calmed by the sounds and visually entertained by the movements of its kinetic mechanism.
+When the solar xylophone is placed outside, it begins slowly playing notes in an unpredictable manner based on how much sun is hitting each of the eight solar panels. The result is a peaceful release of musical notes that’s always different, written by the sun and edited by the dappling of that sunlight through the trees. The listener is calmed by the sounds and visually entertained by the movements of its kinetic mechanism.
 
 {% include video id="jv4eSf31RVw" provider="youtube" %}
 
