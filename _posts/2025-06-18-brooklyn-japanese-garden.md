@@ -1,6 +1,6 @@
 ---
 title: "Brooklyn Botanical - Japanese Garden Visit"
-date: 2025-06-18T12:00:00-04:00
+date: 2025-06-18T10:00:00-04:00
 categories:
   - inspirations
 tags:
