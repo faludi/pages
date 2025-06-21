@@ -28,8 +28,11 @@ search_provider: lunr
 search_full_content: true
 url: https://wabitronics.com
 repository: faludi/pages
-logo: "assets/images/cherry-blossom-small.jpeg"
-teaser: /assets/images/cherry-blossom-small.jpeg
+# logo: "assets/images/cherry-blossom-small.jpeg"
+# teaser: /assets/images/cherry-blossom-small.jpeg
+
+logo: "assets/images/leaf-circuit-8.png"
+teaser: /assets/images/leaf-circuit-8.png
 
 
 # Build settings
