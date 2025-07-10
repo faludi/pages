@@ -1,5 +1,5 @@
 ---
-title: "Tweenbots"
+title: "Tweenbots and Empathy"
 date: 2025-07-14T12:00:00-04:00
 categories:
   - examples
@@ -10,7 +10,7 @@ header:
 excerpt: " Tweenbots are small human-dependent cardboard robots that move at a constant speed in a single direction. Strangers must help it get to where it is going."
 ---
 ![Tweenbot Medium]({{ site.url }}{{ site.baseurl }}/assets/images/tweenbots/tweenbot-medium.jpg)
-Tweenbot in the Wild
+Tweenbot in Washington Square Park
 {: .align-caption}
 
 Wildness, handcraft, humility and empathy. Is that what comes to mind when you think about robots? Kacie Kinzer, who attended [ITP](http://itp.nyu.edu) while I was a resident researcher there, created [Tweenbots](http://tweenbots.com), little human-dependent cardboard robots that move at a constant speed in a single direction. Each has a flag with a destination, requesting help to get there. Kacie put them on the street in New York and no, they weren’t stolen or damaged or reported as threats. Instead total strangers would come to their rescue, pointing them in the right direction and away from any dangers. She writes:
