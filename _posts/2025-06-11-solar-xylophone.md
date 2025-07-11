@@ -7,6 +7,7 @@ tags:
   - music
 header:
   teaser: /assets/images/solar-xylophone-grass.jpg 
+excerpt: "Rory Nugent’s wonderful Solar Xylophone uses the sun to make music outdoors. It creates natural melodies written by the sun and edited by the dappling of the trees."
 ---
 
 Rory Nugent’s wonderful [Solar Xylophone](https://makezine.com/projects/solar-xylophone/) uses the sun to make music outdoors. It uses eight different chime tubes that are struck with electrically-actuated mallets that are charged by solar panels. The tune is randomized, similar to wind chimes, because each mallet charges up at a slightly different rate, dependent on the amount of sun playing across each solar panel. Rory and I were classmates in graduate school, so I got to see his design develop in person, back in the day.
