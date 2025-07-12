@@ -15,7 +15,7 @@ Tweenbot in Washington Square Park
 
 Wildness, handcraft, humility and empathy. Is that what you think of when you think about robots? Kacie Kinzer, who attended [ITP](http://itp.nyu.edu) while I was a resident researcher there, created [Tweenbots](http://tweenbots.com), little human-dependent cardboard robots that move at a constant speed in a single direction. Each has a flag with a destination, requesting help to get there. Kacie put them on the street in New York and no, they weren’t stolen or damaged or reported as threats. Instead total strangers would come to their rescue, pointing them in the right direction and away from any dangers. She writes:
 
-> I called them tween bots because they would not only be navigating the space, going between one place and another, but they would be not robots necessarily—they would be between humans and robots. They would be between real and imagination.
+> ![IoT Cloud]({{ site.url }}{{ site.baseurl }}/assets/images/tweenbots/Kacie_Kinzer_PopTech_photo_by_Kris Krüg.jpg){: .align-right width="50%"}I called them tween bots because they would not only be navigating the space, going between one place and another, but they would be not robots necessarily—they would be between humans and robots. They would be between real and imagination.
 
 These charming robots are as simple as can be. They’re made from cardboard, with big eyes and an adorable smile drawn on the robot’s head. When turned on, they slowly roll forward. There aren’t any sensors, there’s no remote control and no, there’s no AI self-driving. The robot is utterly dependent upon the kindness of strangers. And the strangers stepped up.
 
@@ -59,6 +59,6 @@ Since the Tweenbot project is chock full of wabi-sabi elements, it’s not reall
 
 Kacie proposed a [Tweenbot Kit](https://www.kickstarter.com/projects/kaciekinzer/build-your-own-tweenbot) on Kickstarter back in 2011, but unfortunately the funding fell short so it was never realized. However it still should be pretty easy to build your own, even without a kit. For example this [tracked platform](https://www.amazon.com/Caterpillar-Platform-Raspberry-Microbit-Research/dp/B08WLM2L6X) with a battery pack could provide all the mechanics needed. ![IoT Cloud]({{ site.url }}{{ site.baseurl }}/assets/images/tweenbots/tweenbot-parts.jpg){: .align-right width="45%"} Cardboard, scissors and tape or white glue should work well to build a robot frame, a great project for children. Creating your own design will give plenty of opportunities to evoke wabi-sabi in your own way. If you make your own Tweenbot, let us know in the comments.
 
-_Tweenbots have joined the [MoMA](https://www.moma.org/collection/works/145467) permanent design collection. All photos by Kacie Kinzer._
+_Tweenbots have joined the [MoMA](https://www.moma.org/collection/works/145467) permanent design collection. All photos by Kacie Kinzer except [PopTech](https://commons.wikimedia.org/wiki/File:Kacie_Kinzer_-_Pop!Tech_2009_-_Camden,_ME_(4040274223).jpg) by Kris Krüg._
 
 {% include video id="kn1tSPP0VF8" provider="youtube" %}
