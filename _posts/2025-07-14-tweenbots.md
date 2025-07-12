@@ -13,7 +13,7 @@ excerpt: " Tweenbots are small human-dependent cardboard robots that move at a c
 Tweenbot in Washington Square Park
 {: .align-caption}
 
-Wildness, handcraft, humility and empathy. Is that what comes to mind when you think about robots? Kacie Kinzer, who attended [ITP](http://itp.nyu.edu) while I was a resident researcher there, created [Tweenbots](http://tweenbots.com), little human-dependent cardboard robots that move at a constant speed in a single direction. Each has a flag with a destination, requesting help to get there. Kacie put them on the street in New York and no, they weren’t stolen or damaged or reported as threats. Instead total strangers would come to their rescue, pointing them in the right direction and away from any dangers. She writes:
+Wildness, handcraft, humility and empathy. Is that what you think of when you think about robots? Kacie Kinzer, who attended [ITP](http://itp.nyu.edu) while I was a resident researcher there, created [Tweenbots](http://tweenbots.com), little human-dependent cardboard robots that move at a constant speed in a single direction. Each has a flag with a destination, requesting help to get there. Kacie put them on the street in New York and no, they weren’t stolen or damaged or reported as threats. Instead total strangers would come to their rescue, pointing them in the right direction and away from any dangers. She writes:
 
 > I called them tween bots because they would not only be navigating the space, going between one place and another, but they would be not robots necessarily—they would be between humans and robots. They would be between real and imagination.
 
