@@ -1,6 +1,6 @@
 ---
 title: "Tweenbots and Empathy"
-date: 2025-07-15T12:00:00-04:00
+date: 2025-07-15T10:00:00-04:00
 categories:
   - examples
 tags:
