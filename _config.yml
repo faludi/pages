@@ -89,7 +89,7 @@ plugins:
 author:
   name   : #"Wabi-Sabi Electronics"
   email  : 
-  avatar : "/assets/images/wind_lantern.gif"
+  avatar : "/assets/images/wind_lantern_animated.gif"
   bio    : "Technology projects, ideas and inspirations that embrace the beauty of imperfection, the art of simplicity, and our connection to nature."
   links:
     - label: "Bluesky"
